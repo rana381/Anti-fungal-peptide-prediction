@@ -15,3 +15,7 @@ To run This file we need 2 input files :
 
 Output : Output will be stored in Sample.csv file with two columns : protein id and Label corresponding to that protein id
 
+With this model I got 96% Accuracy on Kaggle
+Competition - https://www.kaggle.com/c/iqb2020/overview
+Leaderboard - https://www.kaggle.com/c/iqb2020/leaderboard     Team Name - (JAY)
+
