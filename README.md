@@ -8,6 +8,7 @@ Features used to train model :
 3) Polarity of Amino Acid
 4) Hydrophobicity of Amino Acid
 5) Charge of Amino Acid
+6) Tripeptide Composition
 
 To run This file we need 2 input files :
 1) Train.csv  = File containing 3 columns Id of protein sequence , label of that protein (1 if it is a AFP and -1 if it is not AFP) and protein sequence. Train.csv file is used to train our ml model
